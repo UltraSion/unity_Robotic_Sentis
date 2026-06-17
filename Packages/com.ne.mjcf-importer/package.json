@@ -1,0 +1,11 @@
+{
+  "name": "com.ne.mjcf-importer",
+  "version": "0.1.0",
+  "displayName": "NE MJCF Importer",
+  "description": "Imports MuJoCo MJCF files into Unity ArticulationBody robot hierarchies.",
+  "unity": "6000.0",
+  "author": {
+    "name": "NE"
+  },
+  "dependencies": {}
+}

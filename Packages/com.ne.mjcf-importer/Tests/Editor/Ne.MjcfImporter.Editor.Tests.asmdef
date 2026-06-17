@@ -1,0 +1,23 @@
+{
+  "name": "Ne.MjcfImporter.Editor.Tests",
+  "rootNamespace": "Ne.MjcfImporter.Editor.Tests",
+  "references": [
+    "Ne.MjcfImporter",
+    "Ne.MjcfImporter.Editor",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

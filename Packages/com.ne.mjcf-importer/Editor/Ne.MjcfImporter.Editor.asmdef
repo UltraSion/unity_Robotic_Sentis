@@ -1,0 +1,18 @@
+{
+  "name": "Ne.MjcfImporter.Editor",
+  "rootNamespace": "Ne.MjcfImporter.Editor",
+  "references": [
+    "Ne.MjcfImporter"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
